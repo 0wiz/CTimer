@@ -1,4 +1,4 @@
-I worked on the project from 2012 until 2017 trying out tools in Visual Studio to make it look and function cleaner.
+I worked on the project from 2012 until 2017 trying out tools in Visual Studio to make it look and function cleaner. It's one of the tools I have used daily.
 
 Change log:
 -----------------------------------------------------------------------------------------
