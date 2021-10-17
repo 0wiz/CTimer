@@ -4,11 +4,12 @@ Change log:
 -----------------------------------------------------------------------------------------
 [2017-07-19] CTimer 2.1
 
+Added:
 - Updated estimated time to refresh more directly after editing
-- Resizing clock window before displaying it
 
 Fixed:
 - Clock not show properly when set to 99+ days
+- Resizing clock window before displaying it
 
 -----------------------------------------------------------------------------------------
 [2017-05-19] CTimer 2.0
